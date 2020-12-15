@@ -1,0 +1,11 @@
+{
+  "name": "9bizapp_utility",
+  "version": "2.0.2",
+  "description": "9biZApp Utility ToolZ.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD"
+}

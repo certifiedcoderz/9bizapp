@@ -1,0 +1,6 @@
+REPO_TITLE='9bizapp'
+PROJECT_BRANCH='main'
+APP_VERSION='2.1.5'
+WEB_ROOT=../9bizapp
+KIT_CONFIG=web/kit_config.js
+DEPLOY_LOC=/home/admin/www/blank

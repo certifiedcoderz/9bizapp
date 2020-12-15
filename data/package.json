@@ -1,0 +1,15 @@
+{
+  "name": "9bizapp_data",
+  "version": "2.0.2",
+  "description": " 9biZApp Data Service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "9_OPS",
+  "license": "BSD",
+  "dependencies": {
+    "jsonfile": "^2.4.0",
+    "os-tmpdir": "~1.0.1"
+  }
+}
